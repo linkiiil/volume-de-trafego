@@ -39,7 +39,5 @@ Vários algoritmos foram testados, demonstrando que modelos não lineares basead
 - `Projeto - Volume de Tráfego Interestadual Metropolitano.pdf` - Relatório principal com o código, análise exploratória (EDA) e modelagem detalhada.
 - `shap_summary.svg` - Gráfico demonstrativo da importância global das *features* (SHAP Summary Plot).
 - `shap_waterfall_top5.svg` - Gráfico de cascata SHAP demonstrando o impacto das top 5 variáveis numa previsão específica.
-- `README.md` - Documentação central do projeto.
-
 ---
 *Projeto pessoal com foco em machine learning para séries temporais e interpretabilidade algorítmica.*
